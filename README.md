@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! 👋
+⚡ I'm a 4th Year Electrical Engineering Student interested in Robotics and Software Development. 
+🌱 I’m currently exploring Machine Learning and hoping to apply that in future projects soon.
 
 <!--
 **Grifent/Grifent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
