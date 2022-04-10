@@ -1,5 +1,5 @@
 ### Hey! 👋
-⚡ I'm a 4th Year Electrical Engineering Student interested in Robotics and Software Development.\n
+⚡ I'm a 4th Year Electrical Engineering Student interested in Robotics and Software Development.<br>
 🌱 I’m currently exploring Machine Learning and hoping to apply that in future projects soon.
 
 <!--
